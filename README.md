@@ -149,3 +149,4 @@ Cracking a weak WEP password (using the WEP Replay attack):
 
 Cracking a pre-captured handshake using John The Ripper (via the `--crack` option):
 ![--crack option](https://i.imgur.com/iHcfCjp.gif)
+1
